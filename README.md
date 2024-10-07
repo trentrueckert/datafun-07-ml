@@ -1,7 +1,7 @@
 # datafun-07-ml
 
 ## Overview
-This project implements machine learning and linear regression
+This project implements machine learning and linear regression.
 
 ## Starting the Project: Create and Manage Virtual Project Environment
 * Create and name the repository including a default README.md
