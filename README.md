@@ -26,3 +26,35 @@ matplotlib
 seaborn
 scipy
 ```
+
+## Import Dependencies
+```
+import numpy as np
+import pandas as pd
+import matplotlib
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy import stats
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+```
+
+## Project Steps
+1. Part 1 - Chart a Straight Line
+
+2. Part 2 - Predict Avg High Temp in NYC in January (Part 1)
+    Section 1. Data Acquisition
+    Section 2. Data Inspection
+    Section 3. Data Cleaning
+    Section 4. Descriptive Statistics
+    Section 5. Build the Model
+    Section 6. Predict
+    Section 7. Visualizations
+
+3. Part 3 - Predict Avg High Temp in NYC in January (Part 2)
+    Section 1. Build the model
+    Section 2. Test the model
+    Section 3. Predict
+    Section 4. Visualizations
+
+4. Part 4 - Add your insights
